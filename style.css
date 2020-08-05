@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+    padding: 10%;
+}
+
+.bar-chart {
+    background-color: #c7d9d9;
+}
+
+.bar {
+    fill: #115d8c;
+}
